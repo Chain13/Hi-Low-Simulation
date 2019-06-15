@@ -1,0 +1,2 @@
+# Hi-Low-Simulation
+จำลองการพนันHiLow
